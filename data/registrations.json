@@ -1,0 +1,65 @@
+[
+    {
+        "timestamp": "2026-10-07 10:15:32",
+        "fullName": "Bhavy Gol",
+        "email": "bhavygol1@gmail.com",
+        "mobile": "9876543210",
+        "course": "CSE",
+        "year": "3",
+        "gender": "Male"
+    },
+    {
+        "timestamp": "2026-10-07 11:22:45",
+        "fullName": "Priya Patel",
+        "email": "priya@gmail.com",
+        "mobile": "9876543211",
+        "course": "IT",
+        "year": "2",
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2026-10-07 12:30:18",
+        "fullName": "Rahul Sharma",
+        "email": "rahul.sharma@gmail.com",
+        "mobile": "9876543212",
+        "course": "CSE",
+        "year": "4",
+        "gender": "Male"
+    },
+    {
+        "timestamp": "2026-10-07 14:05:51",
+        "fullName": "Amit Kumar",
+        "email": "amit.kumar@gmail.com",
+        "mobile": "9876543213",
+        "course": "ECE",
+        "year": "1",
+        "gender": "Male"
+    },
+    {
+        "timestamp": "2026-10-08 09:12:27",
+        "fullName": "Neha Shah",
+        "email": "neha.shah@gmail.com",
+        "mobile": "9876543214",
+        "course": "ECE",
+        "year": "3",
+        "gender": "Female"
+    },
+    {
+        "timestamp": "2026-10-08 10:45:33",
+        "fullName": "Rohan Joshi",
+        "email": "rohan.joshi@gmail.com",
+        "mobile": "9876543215",
+        "course": "ME",
+        "year": "2",
+        "gender": "Male"
+    },
+    {
+        "timestamp": "2026-10-08 15:20:09",
+        "fullName": "Kavya Mehta",
+        "email": "kavya.mehta@gmail.com",
+        "mobile": "9876543216",
+        "course": "IT",
+        "year": "1",
+        "gender": "Female"
+    }
+]
